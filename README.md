@@ -1,3 +1,7 @@
+ALUNOS:
+Victor Eduardo Iscava Moreira - 201905514
+Vinicius Medeiros Miranda - 201905516
+
 # Chat-Sample-App
 This is sample/starter code for some programming assignments in the Distributed Systems course taught by Prof. Fábio M. Costa at UFG in 2022.
 The app has a very simple client-server architecture. Students can identify limitations/problems/issues and make enhancements at severaç levels: architectural, non-functional aspects, functional aspects.  
