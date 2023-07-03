@@ -1,6 +1,6 @@
-ALUNOS:
-Victor Eduardo Iscava Moreira - 201905514
-Vinicius Medeiros Miranda - 201905516
+# ALUNOS:
+* Victor Eduardo Iscava Moreira - 201905514
+* Vinicius Medeiros Miranda - 201905516
 
 # Chat-Sample-App
 This is sample/starter code for some programming assignments in the Distributed Systems course taught by Prof. Fábio M. Costa at UFG in 2022.
